@@ -1,0 +1,103 @@
+
+form {
+	max-width: 600px;
+	margin: 0 auto;
+  border: #008CBA;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+input, textarea {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: none;
+	background-color: #f5f5f5;
+}
+
+button {
+	background-color: #008CBA;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #005f7d;
+}
+#carouselExampleIndicators {
+    width: 100%;
+    max-width: 70rem;
+    height: 30rem;
+    margin: 2rem auto;
+}
+#carouselExampleIndicators img {
+    height: 30rem;
+   
+}
+.footer {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #missionh{
+    justify-content: center;
+    text-align: center;
+    color: brown;
+    background-color: bisque;
+  }#ab{
+    margin-left: 50px;
+    text-align: justify;
+    justify-content: center;
+    
+}
+#tiffor{
+  
+  display:inline-block;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+
+}
+#carouselExampleIndicators {
+  width: 100%;
+  max-width: 50rem;
+  height: 30rem;
+  margin: 2rem auto;
+}
+
+#carouselExampleIndicators img {
+  height: 30rem;
+  object-fit: fit ;
+}
+.btn-book-now {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-book-now:hover {
+  background-color: #0056b3;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
